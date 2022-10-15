@@ -1,4 +1,4 @@
-# todolist-v1
+# todolistv2
 
 Live version: https://ryan-todolist.herokuapp.com/
 
