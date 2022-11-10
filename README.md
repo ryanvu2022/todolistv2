@@ -2,7 +2,7 @@
 
 Live version: https://ryan-todolist.herokuapp.com/
 
-This app is built using HTML, CSS, JavaScript, EJS (Embedded JavaScript Templating) , NodeJS, ExpressJS and is deployed using Heroku.
+This app is built using HTML, CSS, JavaScript, EJS (Embedded JavaScript Templating) , NodeJS, ExpressJS, MongoDB, Mongoose and is deployed using Heroku.
 
 This app uses Dynamic Routing Parameters, which allows user to create multiple lists by simply adding any parameter after the initial URL.
 
